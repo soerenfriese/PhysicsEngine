@@ -28,12 +28,12 @@ Use mouse and keyboard for simple scene navigation.
 - Space - Move up
 - Left Shift - Move down
 - Ctrl - Fast movement (Increases speed by 8x)
-- ESC - Close program.
+- ESC - Close application
 
 ### Object Selection
 
-Select objects with left clicks to translate and rotate them both in world and local scope.
-Objects can be selected by clicking into void or selecting a different object.
+Select objects with left click to then translate and rotate them both in world and local scope.
+Objects can be unselected by clicking into the void or selecting a different object.
 
 Editing shortcuts:
 - R - Reset the selected object's orientation

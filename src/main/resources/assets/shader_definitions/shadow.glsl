@@ -34,8 +34,6 @@ vec3 shadow(vec3 value) {
     vec2 size = textureSize(depthTexture, 0);
     vec2 texelSize = 1.0 / size;
 
-    pos.z = pos.z;
-
     float bias = 0.0002;
     float samples[9];
 
